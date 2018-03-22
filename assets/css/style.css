@@ -14,5 +14,34 @@ body {
 #rules {
     color: white;
     width: 400px;
-    height: 400px;
+    height: 300px;
+}
+
+#random_number {
+    width: 180px;
+    height: 90px;
+    background-color: green;
+}
+
+#win_lose {
+    width: 90px;
+    height: 90px;
+    background-color: gray;
+   float: left;
+   margin-left: 200px;
+   margin-bottom: 100px;
+   
+}
+
+#total_score_keeper {
+    width: 200px;
+    height: 90px;
+    background-color: gold;
+}
+
+#score {
+    width: 180px;
+    height: 90px;
+    background-color: palevioletred;
+    float: left;
 }
